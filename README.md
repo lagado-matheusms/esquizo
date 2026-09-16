@@ -1,0 +1,2 @@
+# esquizo
+Escritas sobre csharp.
